@@ -5,3 +5,9 @@ body {
   background-color: var(--bg-color, black);
   color: var(--txt-color-main, white);
 }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
